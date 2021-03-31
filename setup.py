@@ -10,7 +10,7 @@ setuptools.setup(
     author_email= "Prakash.mewari@yahoo.com",
     description = "A very small math library ",
     long_description = long_description,
-    url = "",
+    url = "https://github.com/DPrakashMewari/Mathsimple",
     packages = setuptools.find_packages(),
     classifiers = [
         'Programming Language :: Python :: 3',
