@@ -11,7 +11,7 @@ README = (HERE / "README.md").read_text()
 setup(
     name="Simplesquare",
     version="0.0.1",
-    description="It square the number",
+    description=```It square the number```,
     long_description=README,
     long_description_content_type="text/markdown",
     url="https://github.com/DPrakashMewari/Mathsimple",
