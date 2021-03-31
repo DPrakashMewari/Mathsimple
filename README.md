@@ -6,7 +6,7 @@ function for square root
 ```pip install Simplesquare ```
 
 ## How to Use it ?
-Open terminal or cmd type square
+Open terminal or cmd type Simplesquare
 And then input the integer
 
 ## License
