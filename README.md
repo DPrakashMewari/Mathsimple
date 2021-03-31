@@ -14,3 +14,6 @@ And then input the integer
 @ 2021 Prakash Mewari
 
 This is repo is licensed under the MIT license.
+
+or you can install from Pypi
+https://pypi.org/project/Simplesquare/0.0.1/
